@@ -1,0 +1,14 @@
+#root {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.number-input-root::-webkit-inner-spin-button,
+.number-input-root::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.number-input-root:hover::-webkit-inner-spin-button,
+.number-input-root:hover::-webkit-outer-spin-button {
+  display: none;
+}
